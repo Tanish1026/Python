@@ -1,0 +1,7 @@
+print("Hello coders!!\nThis is \t\"Tanish\" learning basics on python?\b ")
+print("Hey yo\U0001F600\vyo kozo")
+print("Hey yo\vyo kozo")
+print("Hey yo\nyo kozo")
+print("Tanish\vKami")
+print("Hello\vWorld")
+print("Hello\nWorld")
